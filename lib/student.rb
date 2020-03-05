@@ -48,6 +48,8 @@ def self.new_from_db
   new_student.grade=row[2]
 end
 
+end 
+
 
 
 
